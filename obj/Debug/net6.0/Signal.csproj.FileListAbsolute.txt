@@ -1,0 +1,15 @@
+/Users/calvinan/Projects/mac/macbook/bin/Debug/net6.0/Signal
+/Users/calvinan/Projects/mac/macbook/bin/Debug/net6.0/Signal.deps.json
+/Users/calvinan/Projects/mac/macbook/bin/Debug/net6.0/Signal.runtimeconfig.json
+/Users/calvinan/Projects/mac/macbook/bin/Debug/net6.0/Signal.dll
+/Users/calvinan/Projects/mac/macbook/bin/Debug/net6.0/Signal.pdb
+/Users/calvinan/Projects/mac/macbook/obj/Debug/net6.0/Signal.csproj.AssemblyReference.cache
+/Users/calvinan/Projects/mac/macbook/obj/Debug/net6.0/Signal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calvinan/Projects/mac/macbook/obj/Debug/net6.0/Signal.AssemblyInfoInputs.cache
+/Users/calvinan/Projects/mac/macbook/obj/Debug/net6.0/Signal.AssemblyInfo.cs
+/Users/calvinan/Projects/mac/macbook/obj/Debug/net6.0/Signal.csproj.CoreCompileInputs.cache
+/Users/calvinan/Projects/mac/macbook/obj/Debug/net6.0/Signal.dll
+/Users/calvinan/Projects/mac/macbook/obj/Debug/net6.0/refint/Signal.dll
+/Users/calvinan/Projects/mac/macbook/obj/Debug/net6.0/Signal.pdb
+/Users/calvinan/Projects/mac/macbook/obj/Debug/net6.0/Signal.genruntimeconfig.cache
+/Users/calvinan/Projects/mac/macbook/obj/Debug/net6.0/ref/Signal.dll
